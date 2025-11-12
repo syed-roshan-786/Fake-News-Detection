@@ -42,3 +42,6 @@ To develop a machine learning model that classifies news articles as Fake or Rea
 Step 1: Clone this repository
 ```bash
 git clone https://github.com/syed-roshan-786/Fake-News-Detection.git
+
+step 2:Navigate to the project folder
+cd Fake-News-Detection
